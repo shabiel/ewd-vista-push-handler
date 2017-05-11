@@ -1,0 +1,20 @@
+{
+  "name": "ewd-vista-push-handler",
+  "version": "0.1.0",
+  "description": "QEWD VistA: VistA Data Push handler",
+  "main": "index.js",
+  "author": "Sam Habiel",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabiel/ewd-vista-push-handler.git"
+  },
+  "devDependencies": {
+    "eslint": "",
+    "eslint-plugin-json": ""
+  },
+  "ewdVista": {
+    "module": "ewd-vista-push-handler",
+    "service": true
+  }
+}
