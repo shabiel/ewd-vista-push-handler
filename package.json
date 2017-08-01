@@ -1,5 +1,6 @@
 {
   "name": "ewd-vista-push-handler",
+  "engines" : { "node" : ">=6" },
   "version": "0.1.0",
   "description": "QEWD VistA: VistA Data Push handler",
   "main": "index.js",
@@ -14,7 +15,6 @@
     "eslint-plugin-json": ""
   },
   "ewdVista": {
-    "module": "ewd-vista-push-handler",
     "service": true
   }
 }
